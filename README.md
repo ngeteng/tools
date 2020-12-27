@@ -2,6 +2,9 @@
 Penampakan Uploader 
 <img src="img/up.jpg">
 
+# How to usage
+
+Tinggal pake aja , Untuk Beautiful di Folder Webshell itu untuk upload di Plugins ( akses shell, root domain tambahin /?sans )
 
 # Contributing
 
