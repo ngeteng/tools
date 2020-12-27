@@ -1,6 +1,6 @@
 <?php
 /*
-  Decode By :  	www.sans.eu.org
+  	Decode By :  	www.sans.eu.org
 	Telegram: 	https://telegram.me/bangkit
 	Email:   	bangkit@sans.eu.org
 	Date:		Monday, September 14, 2020
