@@ -3,7 +3,7 @@ printf "Tunggu Sedang Menginstall... " >&2
 {
 sudo useradd -m sans
 sudo adduser sans sudo
-echo 'sans:8426' | sudo chpasswd
+echo 'sans:6174' | sudo chpasswd
 sed -i 's/\/bin\/sh/\/bin\/bash/g' /etc/passwd
 sudo apt-get update
 wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
