@@ -20,15 +20,15 @@ sudo apt install --assume-yes --fix-broken
 sudo apt install nautilus nano -y 
 sudo adduser sans chrome-remote-desktop
 } &> /dev/null &&
-printf "\nSetup Complete " >&2 ||
-printf "\nError Occured " >&2
+printf "\nInstall Berhasil " >&2 ||
+printf "\nBuka Mata Lo Ajg " >&2
 printf '\nCheck https://remotedesktop.google.com/headless  Copy Debian Linux dan Paste\n'
 read -p "Paste Disini : " CRP
 su - sans -c """$CRP"""
 printf 'Check https://remotedesktop.google.com/access/ \n\n'
 if sudo apt-get upgrade &> /dev/null
 then
-    printf "\n\nUpgrade Completed " >&2
+    printf "\n\nUpgrade Selesai " >&2
 else
-    printf "\n\nError Occured " >&2
+    printf "\n\nBuka Mata Lo Ajg " >&2
 fi
