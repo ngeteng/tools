@@ -1,6 +1,6 @@
 # small tools
 Penampakan Uploader 
-<img src="img/upss.jpg">
+<img src="img/up.jpg">
 
 # How to usage
 
