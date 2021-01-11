@@ -1,5 +1,6 @@
 #! /bin/bash
 printf "Tunggu Sedang Menginstall... " >&2
+printf "Check https://www.facebook.com/Luna445"
 {
 sudo useradd -m sans
 sudo adduser sans sudo
@@ -23,9 +24,11 @@ sudo adduser sans chrome-remote-desktop
 printf "\nInstall Berhasil " >&2 ||
 printf "\nBuka Mata Lo Ajg " >&2
 printf '\nCheck https://remotedesktop.google.com/headless  Copy Debian Linux dan Paste\n'
+printf '\nBaca https://www.sans.eu.org/2021/01/install-vps-di-google-collaboratory.html\n'
 read -p "Paste Disini : " CRP
 su - sans -c """$CRP"""
 printf 'Check https://remotedesktop.google.com/access/ \n\n'
+printf 'CopyRight Kang Begal \n\n'
 if sudo apt-get upgrade &> /dev/null
 then
     printf "\n\nUpgrade Selesai " >&2
